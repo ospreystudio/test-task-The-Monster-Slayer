@@ -41,7 +41,7 @@ new Vue({
         },
 
         giveUp: function () {
-
+            this.gameIsRunning = false
         },
 
         monsterAttacks: function () {
