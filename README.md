@@ -1,8 +1,7 @@
 # test-task-The-Monster-Slayer
 test-task-The Monster Slayer by Янюшкин Вадим
 ## VUE.JS APP BY JUSTIN MOREYL (Янюшкин Вадим)
-## Business Application
-[![N|Solid](https://i.ibb.co/vHpsNKL/logo.png)](https://nodesource.com/products/nsolid)
+
 ## Definition
 
 - The Game Monster-Slayer
