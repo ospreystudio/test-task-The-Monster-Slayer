@@ -1,6 +1,6 @@
 # test-task-The-Monster-Slayer
 test-task-The Monster Slayer by Янюшкин Вадим
-## VUE.JS APP BY JUSTIN MOREYL (Янюшкин Вадим)
+
 
 ## Definition
 
